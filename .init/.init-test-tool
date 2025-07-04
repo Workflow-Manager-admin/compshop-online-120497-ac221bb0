@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/compshop-online-120497-ac221bb0/computer_shop_frontend"
+}
